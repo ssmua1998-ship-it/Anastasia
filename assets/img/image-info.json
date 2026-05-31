@@ -1,0 +1,42 @@
+{
+  "portrait-bw": {
+    "original_size": [
+      724,
+      1086
+    ],
+    "full_size": [
+      724,
+      1086
+    ]
+  },
+  "lake-close": {
+    "original_size": [
+      1672,
+      941
+    ],
+    "full_size": [
+      1672,
+      941
+    ]
+  },
+  "kyiv-wide": {
+    "original_size": [
+      2048,
+      1536
+    ],
+    "full_size": [
+      2048,
+      1536
+    ]
+  },
+  "lake-wide": {
+    "original_size": [
+      2048,
+      1152
+    ],
+    "full_size": [
+      2048,
+      1152
+    ]
+  }
+}
