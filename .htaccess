@@ -1,0 +1,10 @@
+DirectoryIndex index.php index.html
+Options -Indexes
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+</IfModule>
+
+<FilesMatch "(\.env|config\.php|settings\.json|\.log|\.sql|\.bak|\.zip)$">
+  Require all denied
+</FilesMatch>
